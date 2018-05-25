@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">custom drawing</string>
+    <string name="message_greeting">Hello, Android Developer! Choose one of the examples we prepared below:</string>
+    <string name="action_chart">Chart Accessibility</string>
+</resources>
